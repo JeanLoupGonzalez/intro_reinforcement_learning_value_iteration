@@ -5,7 +5,7 @@ import numpy as np
 
 # the agent is in a n*m labyrinth
 # he cannot exit the labyrinth or move in diagonal
-n = m = 4
+n = m = 5
 
 # set the goal cell
 goal = (4, 3)
